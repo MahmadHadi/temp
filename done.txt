@@ -1,0 +1,10 @@
+    home
+    about us
+    contact us
+    share recipe
+    login 
+    signup
+    catagory
+    recipe
+    chef 
+    find us
